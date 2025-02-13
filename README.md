@@ -1,5 +1,3 @@
-Aqui está uma documentação clara e explicativa do código, para ser colocada no README do seu repositório:
-
 ---
 
 ## **Documentação do Projeto**
